@@ -63,16 +63,16 @@
 6.机器人总动员  
 
 ## Anime 
-1.四月是你的谎言  
+1.四月是你的谎言   
 2.夏目友人帐  
 3.徒然喜欢你  
 
 ## Board-games 
-1.Twilight Struggle
-2.Transform Mars
-3.loveLetter
-4.UNO
-5.Stone Age
+1.Twilight Struggle  
+2.Transform Mars  
+3.loveLetter  
+4.UNO  
+5.Stone Age  
 
 ## Ideal
 1、周淑芳    
