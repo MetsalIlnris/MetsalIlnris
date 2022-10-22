@@ -1,43 +1,5 @@
 # 2018Annual-Board
 
-## Games
-1.Homeworld2  
-2.XL City  
-3.Age Of Empires  
-4.Ballance  
-5.Plants vs Zombie  
-6.The Stanley Parable  
-7.simple Rocket  
-8.Kebal Space Program  
-9.纪念碑谷  
-10.Don't Starve  
-11.Minecraft  
-12.海岛奇兵  
-13.地下城堡  
-14.生存战争  
-15.Need for speed 7  
-16.极限着陆  
-17.3D现代空战  
-
-## Musicians
-1.Eminem  
-2.Maroon5  
-3.LinkinPark  
-4.The Weeknd  
-5.Drake  
-
-### Albums
-1.The Marshall Mathers lp2  
-2.The Mashall Mathers lp  
-3.Recovery  
-4.Metora  
-5.Hybrid Theory  
-6.Starboy  
-7.RedBluePills  
-8.Evolve  
-9.Beauty Behind The Madness  
-10.View  
-
 ## Books
 1.小王子  
 2.三体  
@@ -46,10 +8,41 @@
 5.朝闻道  
 6.脑廊
 7.海的尽头
-8.镜子
+8.人类简史&未来简史
 9.山
-10.人类简史&未来简史
-11.悟空传
+10.悟空传
+
+## Games
+1.Homeworld2  
+2.The Stanley Parable  
+3.Eden*  
+4.XL City  
+5.Don't Starve  
+6.Kebal Space Program  
+7.Ballance  
+8.Plants vs Zombie  
+9.Age of Empires  
+10.Simple Rocket  
+11.纪念碑谷  
+12.Minecraft  
+13.地下城堡  
+14.瘟疫公司  
+15.Need for speed 7  
+
+## Musicians
+1.Eminem  
+2.LinkinPark  
+3.XXXTentacion  
+4.Maroon 5  
+5.The Weeknd  
+6.Drake
+
+### Albums
+6.The Marshall Mathers lp2  
+7.The Mashall Mathers lp  
+8.Recovery  
+9.Metora  
+10.Hybrid Theory   
 
 ## Movies
 1.Zootopia  
