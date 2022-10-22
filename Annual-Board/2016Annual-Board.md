@@ -1,6 +1,6 @@
 # 2016Annual-Board
 
-## 游戏
+## Games
 1、Ballence  
 2、Plants VS. Zombie  
 3、土豆怪兽  
@@ -13,26 +13,26 @@
 10、变形金刚  
 
 ## Musicians
-1、Michael Jackson
-2.LinkinPark
-3、
+1、Michael Jackson 
+2.LinkinPark 
+3、 
 
 ## Movies
-1、2012
-2、先知
-3、猩球崛起
+1、2012 
+2、先知 
+3、猩球崛起 
 
 ## Books
-1、三体
-2、万物简史
-3、果壳中的宇宙
-4、时间简史
-5、大设计
+1、三体 
+2、万物简史 
+3、果壳中的宇宙 
+4、时间简史 
+5、大设计 
 
-## ideal -14
-1、张紫薇
+## Ideal -14
+1、张紫薇 
 
-## ideal 15-16
-1、钟子怡
-2、车梦婷
-3、郑紫玲
+## Ideal 15-16
+1、钟子怡 
+2、车梦婷 
+3、郑紫玲 
