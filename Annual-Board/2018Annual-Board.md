@@ -5,12 +5,12 @@
 2.三体  
 3.火星救援  
 4.麦田里的守望者  
-5.朝闻道  
-6.脑廊
-7.海的尽头
-8.人类简史&未来简史
-9.山
-10.悟空传
+5.朝闻道   
+6.脑廊  
+7.海的尽头  
+8.人类简史&未来简史  
+9.山  
+10.悟空传  
 
 ## Games
 1.Homeworld2  
@@ -38,22 +38,42 @@
 6.Drake
 
 ### Albums
+1.The Eminem Show  
+2.Kamikaze  
+3.Revival  
+4.Eden*  
+5.?  
 6.The Marshall Mathers lp2  
 7.The Mashall Mathers lp  
 8.Recovery  
 9.Metora  
 10.Hybrid Theory   
+11.17  
+12.DAMN.  
+13.Starboy  
+14.Beauty Behind The Madness
+15.Beerbongs&bentleys
 
 ## Movies
-1.Zootopia  
-2.Twilight City  
-3.昆虫总动员  
-4.2012  
-5.机器人总动员  
-6.Coco  
+1.帝国的毁灭  
+2.8 miles  
+3.Zootopia  
+4.昆虫总动员  
+5.2012  
+6.机器人总动员  
+
+## Anime 
+1.四月是你的谎言  
+2.夏目友人帐  
+3.徒然喜欢你  
+
+## Board-games 
+1.Twilight Struggle
+2.Transform Mars
+3.loveLetter
+4.UNO
+5.Stone Age
 
 ## Ideal
-1、万书芳  
-2、车梦婷  
-3、陈凤  
+1、周淑芳    
 
