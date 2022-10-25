@@ -44,9 +44,9 @@ Nothing to change.
 1.浪客剑心   
 2.四月是你的谎言    
 3.AIR  
-4.未闻花名
-5.声之形
-6.NANA  
+4.未闻花名  
+5.声之形  
+6.NANA   
 7.Angel Beats!
 
 ## idol
