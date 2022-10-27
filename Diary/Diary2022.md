@@ -16,6 +16,11 @@ Try some new sentence in my drum kits, pick up in the song Jabon(JoJo)
 Working hard to construct a business and data decoupling patterns back-end program on springboot project using Jpa to operate datas.Benifit from it a lot.  
 ![image](https://user-images.githubusercontent.com/92503302/197578906-4da165dc-8f27-49a0-b401-cfe0c5ca833e.png)  
 ![image](https://user-images.githubusercontent.com/92503302/197578938-33a221d2-8b7a-46ed-b85b-50a57a5e5b15.png)  
-if all services have data master control rights, the database system will have a huge burden.
-![image](https://user-images.githubusercontent.com/92503302/197579341-9875469a-d53c-4bbc-9913-b9c8477d8916.png)
+（if all services have data master control rights, the database system will have a huge burden.从这里引出微服务好吧，闪亮登场）
+10.26.weeHours:  
+.NAT!!!!!!!!!gis作业没进度，愧疚，干到凌晨四点半，还真重构出了一个看起来还行的框架;.NAT framework用起来还行，出了成果就开心  
+10。26:  
+写了一天软测实习四，配置jenkins(狂占cpu）、gitlab，学习git使用;到晚上才开始用jenkins自动拉取gitlab进行编译，配置maven和jdk但是不停失败， 我想选择挂科（不是）请刘神出山收复孙猴。在四楼阳台，重配环境总算成功了一次编译，坐着开始扯皮，聊一些互联网行业现状，聊一些小时候的才华。回去已经三点了。
+10.27:  
+继续jenkins使用testng构建测试用例。晚上又是紧张而刺激的linux上机，两个题目都没写完钰钰了。但宇阳比我还钰钰，第二题没理解题目意思得了个b，其实第二题只需要fork拉一下命令行的服务就行。
 
