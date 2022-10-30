@@ -48,6 +48,7 @@ Nothing to change.
 5.声之形  
 6.NANA   
 7.Angel Beats!
+8.龙与虎
 
 ## idol
 1.Eminem  
