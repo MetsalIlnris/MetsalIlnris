@@ -67,9 +67,10 @@ Nothing to change.
 1.四月是你的谎言   
 2.未闻花名    
 3.声之形  
-4.Angel Beats!
-5.约定的梦幻岛
-6.冰菓
+4.Angel Beats!  
+5.约定的梦幻岛  
+6.冰菓  
+7.龙与虎
 
 ## Board-games 
 1.Transform Mars  
