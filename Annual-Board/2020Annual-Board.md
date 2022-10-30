@@ -47,7 +47,7 @@ Nothing to change.
 4.未闻花名  
 5.声之形  
 6.NANA   
-7.Angel Beats!
+7.Angel Beats!  
 8.龙与虎
 
 ## idol
