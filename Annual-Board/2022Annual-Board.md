@@ -8,10 +8,10 @@
 5.Undertale  
 6.Age of Empires  
 7.Don't Starve  
-8.Genshin impact原神  
-9.XL City  
-10.Portal  
-11.Far:long sail  
+8.XL City  
+9.Portal  
+10.Far:long sail  
+11.Genshin impact原神  
 12.Plant vs Zombie  
 13.Ballance  
 14.Inside  
@@ -53,15 +53,19 @@
 1.AfterHours  
 2.丑奴儿  
 3.Eden*      
-4.The Eminem show  
+4.My Dear Melancholy,  
 5.Kamikaze  
-6.Ghost of Tomorrow     
-7.阿民  
-8.Revival    
-9.Undertale  
-10.My Dear Melancholy,  
-11.杭州的现场  
-12.Prohibited Beats  
+6.4 your eyez only
+7.Ghost of Tomorrow   
+8.Revival   
+9.chinese football
+10.The Eminem show  
+11.阿民   
+12.Undertale  
+13.24时·Am
+13.杭州的现场  
+14.Prohibited Beats  
+15.The Distance Between Zero And One  
 
 ## Movies
 1.星际穿越  
