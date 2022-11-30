@@ -75,3 +75,4 @@ google账号没法注册。看完了老农民。
 far的结局感人，居然把两部作品联系起来了，原来两个男女主是真的踏平山海相见，极大提升了作品完整度，感动。稗子总有解散的感觉，话不投机。云计算检查，当面删java部分的代码（不是shell），还不用debug，just a piece of cake;晚上看夏日重现，感觉不是很好看  
 11.30:  
 Finish the firt three chapter of <Zach little car> , huge screen is really touching  
+ 
