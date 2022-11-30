@@ -11,7 +11,7 @@ fuck the docker!!Its really makes me anxious（crying）
 10.24:   
 Finally finish AI course's final exam.  
 Newly purchased keyboard isn't satisfied me, so I return it.  
-Try some new sentence in my drum kits, pick up in the song Jabon(JoJo)   
+Try some new sentence in my drum kits, picked up in the song Jabon(JoJo)   
 10.25:  
 Working hard to construct a business and data decoupling patterns back-end program on springboot project using Jpa to operate datas.Benifit from it a lot.  
 ![image](https://user-images.githubusercontent.com/92503302/197578906-4da165dc-8f27-49a0-b401-cfe0c5ca833e.png)  
@@ -54,7 +54,8 @@ gis3阶段性完成（工程合并完成），和宇阳喝酒造鸡庆祝，造�
 11.13:  
 天气好差（不出太阳）一天肝了十集老农民，晚上去踢球，然后把足球当篮球打  
 11.14:  
-重新安装回来UE，运行差点没卡死。UE5一些关于UI的新设计很讨喜，正好B站有外网的教程，打算把这块知识捡起来。加油学！  
+重新安装回来UE，运行差点没卡死。UE5一些关于UI的新设计很讨喜，正好B站有外网的教程，打算把这块知识捡起来。  
+PS.强大新特性:Lumen & Nanite  
 11.17:  
 google账号没法注册。看完了老农民。  
 11.18:  
@@ -71,4 +72,6 @@ google账号没法注册。看完了老农民。
 11.28:  
 生日，把大家都叫齐了，因为下雨所以还是在未来城办，王帝和王国兴都来玩了，烧烤喝酒音乐蛋糕一样没落下，十二点半吵到楼上有人下来拍视频了。搬来被子睡排练房，睡前欣赏黄老师民谣与摇滚精彩演奏  
 11.29:  
-far的结局感人，居然把两部作品联系起来了，原来两个男女主是真的踏平山海相见，极大提升了作品完整度，感动。稗子总有解散的感觉，话不投机。晚上看夏日重现，感觉不是很好看  
+far的结局感人，居然把两部作品联系起来了，原来两个男女主是真的踏平山海相见，极大提升了作品完整度，感动。稗子总有解散的感觉，话不投机。云计算检查，当面删java部分的代码（不是shell），还不用debug，just a piece of cake;晚上看夏日重现，感觉不是很好看  
+11.30:  
+Finish the firt three chapter of <Zach little car> , huge screen is really touching  
