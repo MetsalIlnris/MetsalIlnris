@@ -75,4 +75,10 @@ google账号没法注册。看完了老农民。
 far的结局感人，居然把两部作品联系起来了，原来两个男女主是真的踏平山海相见，极大提升了作品完整度，感动。稗子总有解散的感觉，话不投机。云计算检查，当面删java部分的代码（不是shell），还不用debug，just a piece of cake;晚上看夏日重现，感觉不是很好看  
 11.30:  
 Finish the firt three chapter of <Zach little car> , huge screen is really touching  
- 
+### Mounth DEC.  
+12.1:  
+Begin to write album report, summarise all the album I have listened.  
+12.2:  
+Meet pff when I have launch. I greet to her but she just ignore me. I step forward to her desk and ask if I can have a chat with her, she just refused."We are happy right now, please don't disturb us." I can rarely see her, this time she wear a pink outerwear, and I found that her face is still full of flesh, still , a lovely face.
+That incident frustrated me for a while. At the evening, the video taken in my birthday finally pass to the tutor's hand, and unexpectly, somebody ask pff for some information about us, about whether we are the member of music association. It's a bit tragic that the activity room might not be open as a freeroom.
+First contact with OpenGL. Begin to do some english paper.  
