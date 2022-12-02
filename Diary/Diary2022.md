@@ -80,5 +80,5 @@ Finish the firt three chapter of <Zach little car> , huge screen is really touch
 Begin to write album report, summarise all the album I have listened.  
 12.2:  
 Meet pff when I have launch. I greet to her but she just ignore me. I step forward to her desk and ask if I can have a chat with her, she just refused."We are happy right now, please don't disturb us." I can rarely see her, this time she wear a pink outerwear, and I found that her face is still full of flesh, still , a lovely face.
-That incident frustrated me for a while. At the evening, the video taken in my birthday finally pass to the tutor's hand, and unexpectly, somebody ask pff for some information about us, about whether we are the member of music association. It's a bit tragic that the activity room might not be open as a freeroom.
+That incident frustrated me for a while. At the evening, the video taken in my birthday finally pass to the tutor's hand, and unexpectly, somebody ask pff for some information about us, about whether we are the member of music association. It's a bit tragic that the activity room might not be open as a freeroom.  
 First contact with OpenGL. Begin to do some english paper.  
