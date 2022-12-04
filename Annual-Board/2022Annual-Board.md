@@ -32,40 +32,42 @@
 13.中国太阳  
  
 ## Musicians
-1.Eminem  
-2.The Weeknd  
+1.The Weeknd  
+2.Eminem  
 3.JoJoMayer&Nerve  
 4.草东没有派对  
 5.Chinese Football  
 6.周杰伦  
 7.脏手指  
 8.XXXTentacion  
-9.九连真人  
-10.Linkin Park  
-11.J.cole   
+9.J.cole   
+10.Jony J
+11.Linkin Park  
 12.Kendrick Lamar  
 13.PostMalone   
 14.Maroon 5  
 15.TravisScott  
-16.稗子   
+16.九连真人  
+17.稗子   
 
 ### Albums
 1.AfterHours  
 2.丑奴儿  
-3.Eden*      
+3.Eden*    
 4.My Dear Melancholy,  
-5.Kamikaze  
-6.4 your eyez only  
-7.Ghost of Tomorrow   
+5.4 your eyez only  
+6.Undertale  
+7.Kamikaze  
 8.Revival   
-9.chinese football  
-10.The Eminem show   
+9.The Eminem show   
+10.Ghost of Tomorrow   
 11.阿民   
-12.Undertale  
-13.24时·Am  
+12.24时·Am  
 13.杭州的现场  
 14.Prohibited Beats  
 15.The Distance Between Zero And One  
+16.?  
+17.Blonde  
 
 ## Movies
 1.星际穿越  
