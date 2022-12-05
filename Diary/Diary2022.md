@@ -84,3 +84,7 @@ That incident frustrated me for a while. At the evening, the video taken in my b
 First contact with OpenGL. Begin to do some english paper.  
 12.3:  
 《石之海》《夏日重现》，还是JoJo有意思一点。
+12.5:  
+看完《波西米亚狂想曲》  
+12.6:  
+看完《绿皮书》，晚上图书馆搭讪
