@@ -87,4 +87,4 @@ First contact with OpenGL. Begin to do some english paper.
 12.5:  
 看完《波西米亚狂想曲》  
 12.6:  
-看完《绿皮书》，晚上图书馆搭讪
+看完《绿皮书》，晚上图书馆搭讪隔壁胖胖的格子背心黑裙子女生。白白肥肥的小手真好看。  
