@@ -84,7 +84,11 @@ That incident frustrated me for a while. At the evening, the video taken in my b
 First contact with OpenGL. Begin to do some english paper.  
 12.3:  
 《石之海》《夏日重现》，还是JoJo有意思一点。
-12.5:  
+12.4:  
 看完《波西米亚狂想曲》  
-12.6:  
+12.5:  
 看完《绿皮书》，晚上图书馆搭讪隔壁胖胖的格子背心黑裙子女生。白白肥肥的小手真好看。  
+12.6：  
+去同济医院看杨红教授，晚上练了两个小时鼓，jungle节奏，时间仓促没有练得很好。  
+12.7:  
+线总算到了，插上图书馆的显示屏，做了一个小汽车  
