@@ -93,3 +93,7 @@ First contact with OpenGL. Begin to do some english paper.
  Go to tongji hospital to consult doctor yanghong, and practice drums for two hours in evening(jungle beats).But in case of the lack of time , I havent practice well.
 12.7:  
 线总算到了，插上图书馆的显示屏，做了一个小汽车（5-7chapter）  
+12.8:   
+捡到一张草稿纸，前面的女生居然一个人给自己画简笔画，好可爱。又写了一段话搭讪，横看竖看都好美。  
+12.9:   
+看了《千王之王》和《长江七号》，无疑是大烂片，不如看奥斯卡动画片。  
