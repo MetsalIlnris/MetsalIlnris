@@ -107,3 +107,5 @@ First contact with OpenGL. Begin to do some english paper.
 两天生病了，打fxmod，看皮克斯  
 12.16:  
 回家了，火车上体验太阳帝国的原罪，不好玩退款了  
+12.17:  
+在楼上阿姨家隔离的一天，晚上打完了fxmod闪光之路（累），完了看看blender2d动画技术，看看一些大佬的工程，居然可以结合3d玩出这么多花样，太猛了，感觉这是2d动画的一场变革
