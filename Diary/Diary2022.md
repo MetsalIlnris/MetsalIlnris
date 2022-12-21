@@ -116,4 +116,4 @@ First contact with OpenGL. Begin to do some english paper.
 制作单位框选，移动和战争视野功能。框选能直接实现单选所以单选不用单独实现。单位材质直接使用了上次学着做的animate风格简单材质，构建单位时使用定义的player对应材质使用的颜色。
 12.21:  
 父亲也被感染生病了。  
-UE自带的移动组件在NavigationMesh上工作总是出bug，让我还是重写了整个移动系统，直接改成每帧向一个每个单位都带有的MoveTarget属性移动一个小offset。做了一个舰体和炮台分离的系统，两者分别旋转指向moveTarget和attackTarget。做了一个子弹增加了武器系统，炮塔可以射击子弹，子弹碰到敌人扣血。晚上洗完脸眼睛好一点了，又开始做小地图  
+UE自带的移动组件在NavigationMesh上工作总是出bug，让我还是重写了整个移动系统，直接改成每帧向一个每个单位都带有的MoveTarget属性移动一个小offset。做了一个舰体和炮台分离的系统，两者分别旋转指向moveTarget和attackTarget。做了一个子弹增加了武器系统，炮塔可以射击子弹，子弹碰到敌人扣血。放上一个blender三分钟建模的一个航母，但发现蓝图类继承比想象中复杂，还要改写现在的unit蓝图类。晚上洗完脸眼睛好一点了，又开始做小地图  
