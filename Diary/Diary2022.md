@@ -110,8 +110,8 @@ First contact with OpenGL. Begin to do some english paper.
 12.17:  
 在楼上阿姨家隔离的一天，晚上打完了fxmod闪光之路（累），完了看看blender2d动画技术，看看一些大佬的工程，居然可以结合3d玩出这么多花样，太猛了，感觉这是2d动画的一场变革  
 12.19:  
-开始制作一个RTS游戏，先学着写了一个局域网联机模块，RTS游戏经典的镜头移动方法controller，设置工程的gamemode  
+开始制作一个RTS游戏，先学着写了一个局域网联机模块，RTS游戏经典的镜头移动方法controller，设置工程的gamemode。先把单位血量系统写了，显示在单位头顶。  
 12.20:  
-制作单位框选，移动和战争视野功能  
+制作单位框选，移动和战争视野功能。框选能直接实现单选所以单选不用单独实现。单位材质直接使用了上次学着做的animate风格简单材质，构建单位时使用定义的player对应材质使用的颜色。
 12.21:
-UE自带的移动组件在NavigationMesh上工作总是出bug，让我
+UE自带的移动组件在NavigationMesh上工作总是出bug，让我还是重写了整个移动系统，直接改成每帧向一个每个单位都带有的MoveTarget属性移动一个小offset。做了一个舰体和炮台分离的系统，两者分别旋转指向moveTarget和attackTarget
