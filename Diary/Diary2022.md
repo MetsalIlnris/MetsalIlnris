@@ -129,6 +129,6 @@ UE自带的移动组件在NavigationMesh上工作总是出bug，让我还是重�
 李老师推荐的K神鼓组音色包并不好用，还不如自己在cubase上用add drum扒下来的音色。花了很多时间处理mediaPlayer播放视频的问题，原来是编码问题需要将d12改为d11。制作播放器组件比较顺利，逐一完成了五个UI的全部功能，顺便还上JoJo官网看完了主页很棒的纪录片，太帅了。  
 12.27:  
 姜老师说我讲解可以排第二到三名哈哈哈哈
-![image](https://user-images.githubusercontent.com/92503302/210049494-47f0a7f1-d26f-42b3-9a6d-fdb9d86f9226.png)
+![image](https://user-images.githubusercontent.com/92503302/210049494-47f0a7f1-d26f-42b3-9a6d-fdb9d86f9226.png)  
 12.29:  
 把答辩JoJoMayer风格架子鼓视频录制下来发到了b站;两美元买了两款steam小游戏
