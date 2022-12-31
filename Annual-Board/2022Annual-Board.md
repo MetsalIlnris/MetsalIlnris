@@ -96,21 +96,24 @@
 3.中二病也要谈恋爱  
 4.AIR  
 5.JOJO的奇妙冒险  
-6.徒然喜欢你  
+6.孤独摇滚  
+7.徒然喜欢你  
+8.我的三体  
 
 ## idol
 1.JoJo Mayer  
 2.The Weeknd  
-3.Eminem  
-4.逗比的雀巢  
-5.刘慈欣  
-6.TobyFox  
+3.刘慈欣  
+4.TobyFox  
+5.Eminem  
+6.逗比的雀巢  
 7.绯村剑心  
-8.霍金
+8.神游八方  
+8.霍金  
 
 ## Ideal
-1.pff  
-2.zsf  
+1.zsf  
+2.pff  
 3.sion  
 4.烟绯  
 5.胡桃  
