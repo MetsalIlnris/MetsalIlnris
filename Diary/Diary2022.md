@@ -131,4 +131,6 @@ UE自带的移动组件在NavigationMesh上工作总是出bug，让我还是重�
 姜老师说我讲解可以排第二到三名哈哈哈哈
 ![image](https://user-images.githubusercontent.com/92503302/210049494-47f0a7f1-d26f-42b3-9a6d-fdb9d86f9226.png)  
 12.29:  
-把答辩JoJoMayer风格架子鼓视频录制下来发到了b站;两美元买了两款steam小游戏
+把答辩JoJoMayer风格架子鼓视频录制下来发到了b站;两美元买了两款steam小游戏:买了卷发棒(103)  
+12.31:  
+买辅酶q10（96）
