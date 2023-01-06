@@ -35,13 +35,13 @@
 1.The Weeknd  
 2.Eminem  
 3.JoJoMayer&Nerve  
-4.草东没有派对  
-5.Chinese Football  
+4.Chinese Football  
+5.草东没有派对  
 6.周杰伦  
 7.脏手指  
-8.XXXTentacion  
-9.J.cole   
-10.Jony J
+8.J.cole   
+9.XXXTentacion  
+10.Jony J  
 11.Linkin Park  
 12.Kendrick Lamar  
 13.PostMalone   
@@ -55,19 +55,21 @@
 2.丑奴儿  
 3.Eden*    
 4.My Dear Melancholy,  
-5.4 your eyez only  
+5.4 your eyez only   
 6.Undertale  
 7.Kamikaze  
 8.Revival   
 9.The Eminem show   
 10.Ghost of Tomorrow   
 11.阿民   
-12.24时·Am  
-13.杭州的现场  
-14.Prohibited Beats  
-15.The Distance Between Zero And One  
-16.?  
-17.Blonde  
+12.Prohibited Beats  
+13.24时·Am  
+14.杭州的现场  
+15.Velocity:Design:Comfort.
+16.The Distance Between Zero And One  
+17.?  
+18.Blonde  
+19.Chinese Football  
 
 ## Movies
 1.星际穿越  
