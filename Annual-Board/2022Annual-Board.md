@@ -47,8 +47,6 @@
 13.PostMalone   
 14.Maroon 5  
 15.TravisScott  
-16.九连真人  
-17.稗子   
 
 ## Albums
 1.AfterHours  
