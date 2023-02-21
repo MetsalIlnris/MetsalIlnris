@@ -43,21 +43,18 @@
 9.XXXTentacion  
 10.Jony J  
 11.Linkin Park  
-12.Kendrick Lamar  
-13.PostMalone   
-14.Maroon 5  
-15.TravisScott  
+12.Sweet Trip  
 
 ## Albums
 1.AfterHours  
-2.丑奴儿  
-3.Eden*    
-4.My Dear Melancholy,  
-5.The Eminem show   
-6.Ghost of Tomorrow   
+2.Eden*    
+3.My Dear Melancholy,  
+4.丑奴儿  
+5.Ghost of Tomorrow   
+6.The Eminem show   
 7.4 your eyez only   
-8.Undertale  
-9.Prohibited Beats  
+8.Prohibited Beats  
+9.Undertale  
 10.Revival   
 11.Velocity:Design:Comfort.  
 12.Kamikaze  
@@ -65,9 +62,7 @@
 14.The Distance Between Zero And One  
 15.?  
 16.Blonde  
-17.阿民   
-18.24时·Am  
-19.Chinese Football  
+17.Chinese Football  
 
 ## Movies
 1.星际穿越  
@@ -79,17 +74,6 @@
 7.2012  
 8.机器人总动员  
 
-## Clips 
-1.老奶奶与机器人  
-2.勇敢的心  
-3.回忆积木小屋  
-4.柯基系列  
-5.编曲  
-6.舍得   
-7.不存在的朋友  
-8.无翼鸟  
-9.包宝宝  
-
 ## Anime 
 1.浪客剑心   
 2.四月是你的谎言    
@@ -98,7 +82,6 @@
 5.JOJO的奇妙冒险  
 6.孤独摇滚  
 7.徒然喜欢你  
-8.我的三体  
 
 ## idol
 1.JoJo Mayer  
@@ -113,8 +96,7 @@
 
 ## Ideal
 1.zsf  
-2.pff  
-3.sion  
+2.sion  
 4.烟绯  
 5.胡桃  
 6.松果  
@@ -122,24 +104,23 @@
 
 ## A
 1.SNIS-887萌  
-2.wrb  
-3.zsf  
 4.RBD-725  
-5.T28-562   
+2.wrb  
 6.MIAE-347深雪  
 7.SSNI-296美晴  
+3.zsf  
+5.T28-562   
 8.KWD-988唯  
 9.MIFD-070唯  
-10.SNIS-976萌  
 11.IPZ-971桃乃木  
 12.NHDTA-613  
 13.MIAA-077深雪  
 14.姉弟のカンケイ  
+10.SNIS-976萌  
 16.IPX-015樱空  
 17.MIDE-634水卜   
 18.IPX-162樱空  
 17.MIAA-044深雪  
-15.MIDE-748美亚  
 18.IPX-238樱空
 18.IPX-177南  
 18.Whole  
