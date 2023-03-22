@@ -7,7 +7,7 @@
 4.Kebal space program  
 5.Undertale  
 6.Don't Starve  
-7.Portal  
+7.Portal2  
 8.XL City  
 9.Age of Empires  
 10.Far:long sail  
@@ -89,18 +89,16 @@
 3.刘慈欣  
 4.TobyFox  
 5.Eminem  
-6.徐波
-6.逗比的雀巢  
-7.绯村剑心  
-8.神游八方  
+6.徐波  
+7.逗比的雀巢  
+8.绯村剑心  
 
 ## Ideal
 1.zsf  
 2.sion  
-4.烟绯  
-5.胡桃  
-6.松果  
-7.小鸟游六花      
+3.烟绯  
+4.胡桃  
+5.小鸟游六花      
 
 ## A
 1.SNIS-887萌  
@@ -111,8 +109,7 @@
 6.OIGS-025深雪  
 7.zsf  
 8.IPZ-971桃乃木  
-9.KWD-988唯  
-10.MIFD-070唯  
+9.KWD-988&MIFD-070唯  
 11.T28-562   
 12.MIAA-077深雪  
 13.NHDTA-613  
