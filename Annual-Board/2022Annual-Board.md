@@ -143,8 +143,6 @@
 20.IPX-238樱空  
 21.IPX-177南  
 22.Whole  
-23.KAWD-829  
-24.IPX-072桃乃木  
 
 ## Images  
 1.![4E6161746933D92BD95D27E60422F375](https://user-images.githubusercontent.com/92503302/227701300-085acc96-478f-42ce-9625-c1320b66f690.jpg)
