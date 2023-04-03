@@ -40,9 +40,9 @@
 6.周杰伦  
 7.脏手指  
 8.J.cole   
+11.Linkin Park  
 9.XXXTentacion  
 10.Jony J  
-11.Linkin Park  
 12.Sweet Trip  
 
 ## Albums
@@ -71,6 +71,7 @@
 4.头文字D  
 5.叶问  
 6.海上钢琴师  
+7.人民的名义  
 7.2012  
 8.机器人总动员  
 
