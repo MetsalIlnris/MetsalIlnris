@@ -36,31 +36,31 @@
 2.Eminem  
 3.JoJoMayer&Nerve  
 4.Chinese Football  
-5.草东没有派对  
-6.周杰伦  
-7.脏手指  
-8.J.cole   
-11.Linkin Park  
-9.XXXTentacion  
-10.Jony J  
+5.周杰伦  
+6.脏手指  
+7.J.cole   
+8.Linkin Park  
+9.草东没有派对  
+10.XXXTentacion  
+11.Jony J  
 12.Sweet Trip  
 
 ## Albums
 1.AfterHours  
 2.Eden*    
-3.My Dear Melancholy,  
-4.丑奴儿  
-5.4 your eyez only   
-6.Ghost of Tomorrow   
-7.Velocity:Design:Comfort.  
+3.4 your eyez only   
+4.My Dear Melancholy,  
+5.Ghost of Tomorrow   
+6.Velocity:Design:Comfort.  
+7.丑奴儿  
 8.The Eminem show   
 9.Prohibited Beats  
 10.Undertale  
 11.Revival   
 12.Kamikaze  
-13.The Distance Between Zero And One  
-14.Blonde  
-15.Chinese Football  
+13.Blonde  
+14.Chinese Football  
+15.The Distance Between Zero And One  
 16.?  
 17.杭州的现场  
 
