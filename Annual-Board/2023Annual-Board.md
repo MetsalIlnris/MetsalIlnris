@@ -37,10 +37,10 @@
 3.JoJoMayer&Nerve  
 4.Chinese Football  
 5.周杰伦  
-6.脏手指  
-7.J.cole   
-8.Linkin Park  
-9.草东没有派对  
+6.J.cole   
+7.草东没有派对  
+8.脏手指  
+9.Linkin Park  
 10.XXXTentacion  
 11.Jony J  
 12.Sweet Trip  
