@@ -33,9 +33,9 @@
  
 ## Musicians
 1.The Weeknd  
-2.Eminem  
-3.JoJoMayer&Nerve  
-4.Chinese Football  
+2.JoJoMayer&Nerve  
+3.Chinese Football  
+4.Eminem  
 5.周杰伦  
 6.J.cole   
 7.草东没有派对  
@@ -87,11 +87,11 @@
 
 ## idol
 1.JoJo Mayer  
-2.The Weeknd  
-3.刘慈欣  
-4.TobyFox  
-5.Eminem  
-6.徐波  
+2.徐波  
+3.The Weeknd  
+4.刘慈欣  
+5.TobyFox  
+6.Eminem  
 7.逗比的雀巢  
 8.绯村剑心  
 
