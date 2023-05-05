@@ -34,8 +34,8 @@
 ## Musicians
 1.The Weeknd  
 2.JoJoMayer&Nerve  
-3.Chinese Football  
-4.Eminem  
+3.Eminem  
+4.Chinese Football  
 5.周杰伦  
 6.J.cole   
 7.草东没有派对  
@@ -53,10 +53,10 @@
 5.Ghost of Tomorrow   
 6.Velocity:Design:Comfort.  
 7.丑奴儿  
-8.The Eminem show   
-9.Prohibited Beats  
-10.Undertale  
-11.Revival   
+8.Revival   
+9.The Eminem show   
+10.Prohibited Beats  
+11.Undertale  
 12.Kamikaze  
 13.Blonde  
 14.Chinese Football  
