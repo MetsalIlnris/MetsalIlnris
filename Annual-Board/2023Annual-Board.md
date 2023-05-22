@@ -37,13 +37,15 @@
 3.Eminem  
 4.Chinese Football  
 5.周杰伦  
-6.J.cole   
-7.草东没有派对  
+6.草东没有派对  
+7.J.cole   
 8.脏手指  
 9.Linkin Park  
 10.XXXTentacion  
 11.Jony J  
 12.Sweet Trip  
+13.二手玫瑰  
+14.Daft Punk  
 
 ## Albums
 1.AfterHours  
@@ -72,8 +74,9 @@
 5.叶问  
 6.海上钢琴师  
 7.人民的名义  
-7.2012  
-8.机器人总动员  
+8.流浪地球  
+9.2012  
+10.机器人总动员  
 
 ## Anime 
 1.浪客剑心   
@@ -107,17 +110,17 @@
 3.wrb  
 4.MIAE-347深雪  
 5.IPZ-971桃乃木  
-7.OIGS-025深雪  
-8.zsf  
-10.T28-562   
-6.SSNI-296美晴  
-9.KWD-988&MIFD-070唯  
+6.OIGS-025深雪  
+7.zsf  
+8.T28-562   
+9.SSNI-296美晴  
+10.KWD-988&MIFD-070唯  
 11.姉弟のカンケイ  
 12.MIAA-077深雪  
 13.NHDTA-613  
 14.HND-703唯  
-15.SNIS-976萌  
-16.IPX-015樱空  
+15.IPX-015樱空  
+16.SNIS-976萌  
 17.HMPD-10013麻里  
 18.MIDE-634水卜   
 19.PRTD-015深雪  
