@@ -11,9 +11,10 @@
 8.XL City  
 9.Age of Empires  
 10.Far:long sail  
-11.Genshin impact原神  
+11.原神  
 12.Plant vs Zombie  
 13.Ballance  
+14.明日方舟  
 14.Inside  
 
 ## Books
