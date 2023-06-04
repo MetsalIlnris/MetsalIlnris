@@ -34,8 +34,8 @@
  
 ## Musicians
 1.The Weeknd  
-2.JoJoMayer&Nerve  
-3.Eminem  
+2.Eminem  
+3.JoJoMayer&Nerve  
 4.Chinese Football  
 5.周杰伦  
 6.草东没有派对  
@@ -45,8 +45,6 @@
 10.XXXTentacion  
 11.Jony J  
 12.Sweet Trip  
-13.二手玫瑰  
-14.Daft Punk  
 
 ## Albums
 1.AfterHours  
