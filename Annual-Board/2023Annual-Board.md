@@ -46,6 +46,17 @@
 11.Jony J  
 12.Sweet Trip  
 
+## Band 
+1.JoJoMayer&Nerve  
+2.Chinese Football  
+3.草东没有派对  
+4.脏手指  
+5.LinkinPark  
+6.SweetTrip  
+7.万能青年旅店  
+8.二手玫瑰  
+9.Daft Punk  
+
 ## Albums
 1.AfterHours  
 2.Eden*    
