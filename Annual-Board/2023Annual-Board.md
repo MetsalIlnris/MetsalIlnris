@@ -110,6 +110,12 @@
 7.逗比的雀巢  
 8.绯村剑心  
 
+## Drumer
+1.JoJo Mayer  
+2.Beny Greb  
+3.方正天  
+4.ZackGrooves  
+
 ## Ideal
 1.zsf  
 2.sion  
