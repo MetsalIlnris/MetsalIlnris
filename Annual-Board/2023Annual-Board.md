@@ -45,6 +45,7 @@
 10.XXXTentacion  
 11.Jony J  
 12.Sweet Trip  
+13.Kendrick Lamar  
 
 ## Band 
 1.JoJoMayer&Nerve  
@@ -55,7 +56,6 @@
 6.SweetTrip  
 7.万能青年旅店  
 8.二手玫瑰  
-9.Daft Punk  
 
 ## Albums
 1.AfterHours  
