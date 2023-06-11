@@ -44,18 +44,9 @@
 9.Linkin Park  
 10.XXXTentacion  
 11.Jony J  
-12.Sweet Trip  
-13.Kendrick Lamar  
-
-## Band 
-1.JoJoMayer&Nerve  
-2.Chinese Football  
-3.草东没有派对  
-4.脏手指  
-5.LinkinPark  
-6.SweetTrip  
-7.万能青年旅店  
-8.二手玫瑰  
+12.万能青年旅店  
+13.Sweet Trip  
+14.Kendrick Lamar  
 
 ## Albums
 1.AfterHours  
@@ -71,11 +62,11 @@
 11.Undertale  
 12.Kamikaze  
 13.Blonde  
-14.Chinese Football  
-15.The Distance Between Zero And One  
-16.?  
-17.24·时  
-18.冀西南林路行  
+14.冀西南林路行  
+15.Chinese Football  
+16.The Distance Between Zero And One  
+17.?  
+18.24·时  
 19.杭州的现场  
 
 ## Movies
@@ -135,12 +126,11 @@
 10.姉弟のカンケイ  
 11.SSNI-296美晴  
 12.MIAA-077深雪  
-13.NHDTA-613  
-14.HND-703唯  
-15.IPX-015樱空  
+13.IPX-015樱空  
+14.NHDTA-613  
+15.HND-703唯  
 16.SNIS-976萌  
-17.HMPD-10013麻里  
-18.MIDE-634水卜   
-19.PRTD-015深雪  
-19.HND-715渚光  
-19.MIAD-966麻里  
+17.PRTD-015深雪  
+18.HND-715渚光  
+19.HMPD-10013麻里  
+20.MIDE-634水卜   
