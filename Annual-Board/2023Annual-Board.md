@@ -11,11 +11,11 @@
 8.XL City  
 9.Age of Empires  
 10.Far:long sail  
-11.原神  
-12.Plant vs Zombie  
-13.Ballance  
-14.明日方舟  
+11.Plant vs Zombie  
+12.Ballance  
+13.原神  
 14.Inside  
+14.明日方舟  
 
 ## Books
 1.小王子  
@@ -38,13 +38,13 @@
 3.JoJoMayer&Nerve  
 4.Chinese Football  
 5.周杰伦  
-6.草东没有派对  
-7.J.cole   
-8.脏手指  
-9.Linkin Park  
-10.XXXTentacion  
-11.Jony J  
-12.万能青年旅店  
+6.J.cole   
+7.脏手指  
+8.草东没有派对  
+9.万能青年旅店  
+10.Jony J  
+11.Linkin Park  
+12.XXXTentacion  
 13.Sweet Trip  
 14.Kendrick Lamar  
 
@@ -52,17 +52,17 @@
 1.AfterHours  
 2.Eden*    
 3.4 your eyez only   
-4.My Dear Melancholy,  
-5.Ghost of Tomorrow   
-6.Velocity:Design:Comfort.  
+4.Ghost of Tomorrow   
+5.Velocity:Design:Comfort.  
+6.My Dear Melancholy,  
 7.丑奴儿  
 8.Revival   
-9.The Eminem show   
-10.Prohibited Beats  
-11.Undertale  
-12.Kamikaze  
-13.Blonde  
-14.冀西南林路行  
+9.Prohibited Beats  
+10.冀西南林路行  
+11.The Eminem show   
+12.Undertale  
+13.Kamikaze  
+14.Blonde  
 15.Chinese Football  
 16.The Distance Between Zero And One  
 17.?  
