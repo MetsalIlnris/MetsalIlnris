@@ -37,18 +37,19 @@
 ## Musicians
 1.The Weeknd  
 2.Eminem  
-3.JoJoMayer&Nerve  
+3.JoJoMayer&Nerve                   
 4.Chinese Football  
-5.周杰伦  
-6.J.cole   
-7.脏手指  
-8.草东没有派对  
-9.万能青年旅店  
+5.J.cole   
+6.脏手指  
+7.草东没有派对  
+8.万能青年旅店  
+9.周杰伦  
 10.Jony J  
 11.Linkin Park  
 12.XXXTentacion  
 13.Sweet Trip  
 14.Kendrick Lamar  
+
 
 ## Albums
 1.AfterHours  
@@ -57,13 +58,13 @@
 4.Ghost of Tomorrow   
 5.Velocity:Design:Comfort.  
 6.My Dear Melancholy,  
-7.丑奴儿  
-8.Revival   
-9.Prohibited Beats  
-10.冀西南林路行  
+7.Revival   
+8.冀西南林路行  
+9.丑奴儿  
+10.Prohibited Beats  
 11.The Eminem show   
-12.Undertale  
-13.Kamikaze  
+12.Kamikaze  
+13.Undertale  
 14.Blonde  
 15.Chinese Football  
 16.The Distance Between Zero And One  
