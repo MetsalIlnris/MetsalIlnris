@@ -96,6 +96,14 @@
 7.徒然喜欢你  
 8.幸运星  
 
+## Board-Game
+1.Transform Mars  
+2.loveLetter  
+3.Twilight Struggle  
+4.文明时代  
+5.三国杀  
+6.UNO  
+
 ## idol
 1.JoJo Mayer  
 2.徐波  
