@@ -40,23 +40,24 @@
 3.JoJoMayer&Nerve                   
 4.Chinese Football  
 5.J.cole   
-6.脏手指  
+6.万能青年旅店  
 7.草东没有派对  
-8.万能青年旅店  
-9.周杰伦  
-10.Jony J  
+8.周杰伦  
+9.Jony J  
+10.脏手指  
 11.Linkin Park  
 12.XXXTentacion  
 13.Sweet Trip  
 14.Kendrick Lamar  
+15.二手玫瑰  
 
 
 ## Albums
 1.AfterHours  
 2.Eden*    
 3.4 your eyez only   
-4.Ghost of Tomorrow   
-5.Velocity:Design:Comfort.  
+4.Velocity:Design:Comfort.  
+5.Ghost of Tomorrow   
 6.My Dear Melancholy,  
 7.Revival   
 8.冀西南林路行  
@@ -85,6 +86,7 @@
 10.机器人总动员  
 11.灵魂歌王  
 12.美丽人生  
+13.建党伟业  
 
 ## Anime 
 1.浪客剑心   
@@ -134,19 +136,18 @@
 4.MIAE-347深雪  
 5.IPZ-971桃乃木  
 6.OIGS-025深雪  
-7.T28-562   
-8.zsf  
-9.STARS-256有栖  
-9.KAWD-988&MIFD-070唯  
-10.姉弟のカンケイ  
-11.MIAA-077深雪  
-12.IPX-015樱空  
+7.STARS-256有栖  
+8.T28-562   
+9.zsf  
+10.KAWD-988&MIFD-070唯  
+11.姉弟のカンケイ  
+12.MIAA-077深雪  
 13.SNIS-976萌  
-14.REAL-814松本  
-14.NHDTA-613  
-15.HND-703唯  
-16.PRTD-015深雪  
-17.SSNI-296美晴  
-18.HND-715渚光  
-19.MIDE-634水卜   
-20.HMPD-10013麻里  
+14.PRTD-015深雪  
+15.IPX-015樱空  
+16.HND-715渚光  
+17.HND-703唯  
+18.NHDTA-613  
+19.SSNI-296美晴  
+20.REAL-814松本  
+21.MIDE-634水卜   
