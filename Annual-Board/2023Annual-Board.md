@@ -55,8 +55,8 @@
 ## Albums
 1.AfterHours  
 2.Eden*    
-3.4 your eyez only   
-4.Velocity:Design:Comfort.  
+3.Velocity:Design:Comfort.  
+4.4 your eyez only   
 5.Ghost of Tomorrow   
 6.My Dear Melancholy,  
 7.Revival   
@@ -97,7 +97,8 @@
 5.JOJO的奇妙冒险  
 6.孤独摇滚  
 7.徒然喜欢你  
-8.幸运星  
+8.龙与虎  
+9.幸运星  
 
 ## Board-Game
 1.Transform Mars  
