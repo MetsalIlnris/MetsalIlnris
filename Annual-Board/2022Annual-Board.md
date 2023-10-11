@@ -141,8 +141,6 @@
 18.MIAA-044深雪  
 19.MIDE-748美亚  
 20.IPX-238樱空  
-21.IPX-177南  
-22.Whole  
 
 ## Images  
 1.![4E6161746933D92BD95D27E60422F375](https://user-images.githubusercontent.com/92503302/227701300-085acc96-478f-42ce-9625-c1320b66f690.jpg)
