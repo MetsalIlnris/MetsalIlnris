@@ -111,13 +111,14 @@
 
 ## idol
 1.JoJo Mayer  
-2.徐波  
+2.史悲  
 3.The Weeknd  
 4.刘慈欣  
-5.Eminem  
-6.逗比的雀巢  
-7.TobyFox  
-8.绯村剑心  
+5.徐波  
+6.Eminem  
+7.逗比的雀巢  
+8.TobyFox  
+9.绯村剑心  
 
 ## Drumer
 1.JoJo Mayer  
