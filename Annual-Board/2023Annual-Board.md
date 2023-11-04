@@ -11,13 +11,14 @@
 8.Undertale  
 9.XL City  
 10.Far:long sail  
-11.纪念碑谷  
 12.Plant vs Zombie  
+11.纪念碑谷  
 13.Ballance  
-14.Inside  
-15.原神  
-16.火山的女儿  
-17.明日方舟  
+14.宅男的人间冒险  
+15.Inside  
+16.原神  
+17.火山的女儿  
+18.明日方舟  
 
 ## Books
 1.小王子  
@@ -28,8 +29,8 @@
 6.人类简史  
 7.山  
 8.脑廊  
-9.水星播种  
 10.中国太阳   
+9.水星播种  
 11.雅努斯之歌  
 12.上海堡垒  
 13.悟空传   
@@ -45,11 +46,10 @@
 8.周杰伦  
 9.Jony J  
 10.脏手指  
-11.Linkin Park  
-12.XXXTentacion  
-13.Sweet Trip  
-14.Kendrick Lamar  
-15.二手玫瑰  
+12.Sweet Trip  
+13.Linkin Park  
+14.XXXTentacion  
+15.Kendrick Lamar  
 
 
 ## Albums
@@ -126,9 +126,10 @@
 3.方正天  
 4.James Murphy  
 5.ZackGrooves  
+6.王非凡  
 
 ## Ideal
-1.zsf  
+1.小魔女   
 2.sion  
 3.小鸟游六花    
 4.泉此方  
