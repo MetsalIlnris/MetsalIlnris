@@ -50,12 +50,13 @@
 13.Linkin Park  
 14.XXXTentacion  
 15.Kendrick Lamar  
+16.Sewerslvt  
 
 
 ## Albums
-1.AfterHours  
-2.Eden*    
-3.Velocity:Design:Comfort.  
+1.Eden*    
+2.Velocity:Design:Comfort.  
+3.AfterHours  
 4.4 your eyez only   
 5.Ghost of Tomorrow   
 6.My Dear Melancholy,  
@@ -72,6 +73,7 @@
 17.?  
 18.24·时  
 19.杭州的现场  
+20.阿民  
 
 ## Movies
 1.星际穿越  
