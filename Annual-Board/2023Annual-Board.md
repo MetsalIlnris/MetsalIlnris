@@ -45,13 +45,14 @@
 6.万能青年旅店  
 7.草东没有派对  
 8.周杰伦  
-9.Jony J  
-10.脏手指  
-12.Sweet Trip  
-13.Linkin Park  
-14.XXXTentacion  
-15.Kendrick Lamar  
-16.Sewerslvt  
+9.Sweet Trip  
+10.Jony J  
+11.Linkin Park  
+12.脏手指  
+13.XXXTentacion  
+14.Kendrick Lamar  
+15.maroon 5  
+17.Sewerslvt  
 
 
 ## Albums
