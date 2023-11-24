@@ -53,7 +53,8 @@
 14.Kendrick Lamar  
 15.maroon 5  
 16.秋日疾走  
-17.Sewerslvt  
+17.二手玫瑰  
+18.Sewerslvt  
 
 
 ## Albums
@@ -79,6 +80,7 @@
 20.Starboy  
 21.you will never know why  
 22.阿民  
+23.Random Access Memories  
 
 ## Movies
 1.星际穿越  
