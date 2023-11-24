@@ -45,20 +45,21 @@
 6.万能青年旅店  
 7.草东没有派对  
 8.周杰伦  
-9.Sweet Trip  
+9.Linkin Park  
 10.Jony J  
-11.Linkin Park  
+11.Sweet Trip  
 12.脏手指  
 13.XXXTentacion  
 14.Kendrick Lamar  
 15.maroon 5  
+16.秋日疾走  
 17.Sewerslvt  
 
 
 ## Albums
-1.Eden*    
-2.Velocity:Design:Comfort.  
-3.AfterHours  
+1.AfterHours  
+2.Eden*    
+3.Velocity:Design:Comfort.  
 4.4 your eyez only   
 5.Ghost of Tomorrow   
 6.My Dear Melancholy,  
