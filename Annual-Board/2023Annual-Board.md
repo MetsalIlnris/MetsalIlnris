@@ -62,8 +62,8 @@
 3.Velocity:Design:Comfort.  
 4.4 your eyez only   
 5.Ghost of Tomorrow   
-6.My Dear Melancholy,  
-7.Revival   
+6.Revival   
+7.My Dear Melancholy,  
 8.冀西南林路行  
 9.丑奴儿  
 10.Prohibited Beats  
