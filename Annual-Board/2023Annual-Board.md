@@ -61,10 +61,10 @@
 1.AfterHours  
 2.Eden*    
 3.Velocity:Design:Comfort.  
-4.4 your eyez only   
-5.冀西南林路行  
-6.Revival   
-7.Ghost of Tomorrow   
+4.冀西南林路行  
+5.4 your eyez only   
+6.Ghost of Tomorrow   
+7.Revival   
 8.My Dear Melancholy,  
 9.丑奴儿  
 10.The Eminem show   
@@ -94,7 +94,7 @@
 9.人民的名义  
 10.机器人总动员  
 11.灵魂歌王  
-12.拉贝日记
+12.拉贝日记  
 13.美丽人生  
 14.建党伟业  
 
