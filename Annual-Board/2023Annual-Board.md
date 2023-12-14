@@ -65,14 +65,14 @@
 5.4 your eyez only   
 6.Ghost of Tomorrow   
 7.Revival   
-8.My Dear Melancholy,  
-9.丑奴儿  
-10.The Eminem show   
-11.Undertale  
-12.Prohibited Beats  
+8.丑奴儿  
+9.The Eminem show  
+10.Undertale  
+11.Prohibited Beats  
+12.My Dear Melancholy,  
 13.Blonde  
-14.Kamikaze  
-15.Chinese Football  
+14.Chinese Football  
+15.Kamikaze  
 16.?  
 17.24·时  
 18.The Distance Between Zero And One  
@@ -80,7 +80,18 @@
 20.Starboy  
 21.you will never know why  
 22.阿民  
-23.Random Access Memories  
+23.The Marshall Mathers LP 2  
+24.we had good time together, don't forget that  
+25.Beauty Behind the Madness  
+26.Этажи  
+27.Grebfruit  
+28.CLANNAD OST   
+29.Music To Be Murder By  
+30.2014 Forest Hills Drive  
+31.Funeral  
+32.AIR OST  
+33.Random Access Memories  
+34.喜新恋旧  
 
 ## Movies
 1.星际穿越  
