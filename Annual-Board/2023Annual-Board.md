@@ -131,11 +131,11 @@
 
 ## idol
 1.JoJo Mayer  
-2.史悲  
-3.The Weeknd  
-4.刘慈欣  
-5.Eminem  
-6.逗比的雀巢  
+2.The Weeknd  
+3.刘慈欣  
+4.Eminem  
+5.逗比的雀巢  
+6.史悲  
 7.TobyFox  
 8.徐波  
 9.绯村剑心  
