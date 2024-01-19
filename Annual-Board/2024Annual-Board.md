@@ -20,6 +20,7 @@
 17.OMORI  
 18.火山的女儿  
 19.明日方舟  
+20.StackLand  
 
 ## Books
 1.小王子  
@@ -81,17 +82,16 @@
 21.you will never know why  
 22.阿民  
 23.The Marshall Mathers LP 2  
-24.we had good time together, don't forget that  
-25.Beauty Behind the Madness  
-26.Этажи  
-27.Grebfruit  
+24.Beauty Behind the Madness  
+25.Этажи  
+26.Grebfruit  
+27.we had good time together, don't forget that  
 28.CLANNAD OST   
 29.Music To Be Murder By  
 30.2014 Forest Hills Drive  
 31.Funeral  
 32.AIR OST  
-33.Random Access Memories  
-34.喜新恋旧  
+33.喜新恋旧  
 
 ## Movies
 1.星际穿越  
