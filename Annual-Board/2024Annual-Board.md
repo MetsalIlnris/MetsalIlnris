@@ -14,10 +14,10 @@
 12.Plant vs Zombie  
 11.纪念碑谷  
 13.Ballance  
-14.宅男的人间冒险  
-15.Inside  
-16.原神  
-17.OMORI  
+14.OMORI  
+15.宅男的人间冒险  
+16.Inside  
+17.原神  
 18.火山的女儿  
 19.明日方舟  
 
