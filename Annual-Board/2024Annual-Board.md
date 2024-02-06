@@ -4,20 +4,20 @@
 1.Homeworld  
 2.Don't Starve  
 3.The Stanley Parable  
-4.Eden*  
-5.Kebal space program  
-6.Portal2  
+4.Kebal space program  
+5.Portal2  
+6.Eden*  
 7.Age of Empires  
 8.Undertale  
 9.XL City  
 10.Far:long sail  
-12.Plant vs Zombie  
-11.纪念碑谷  
-13.Ballance  
-14.OMORI  
+11.Plant vs Zombie  
+12.OMORI  
+13.纪念碑谷  
+14.Ballance  
 15.宅男的人间冒险  
-16.Inside  
-17.原神  
+16.原神  
+17.Inside  
 18.火山的女儿  
 19.明日方舟  
 
