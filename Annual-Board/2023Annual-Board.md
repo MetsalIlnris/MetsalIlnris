@@ -135,10 +135,10 @@
 2.The Weeknd  
 3.刘慈欣  
 4.Eminem  
-5.逗比的雀巢  
-6.史悲  
-7.TobyFox  
-8.徐波  
+5.史悲  
+6.徐波  
+7.逗比的雀巢  
+8.TobyFox  
 9.绯村剑心  
 
 ## Drumer
