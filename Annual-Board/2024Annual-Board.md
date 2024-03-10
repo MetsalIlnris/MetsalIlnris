@@ -59,7 +59,7 @@
 
 
 ## Albums
-1.AfterHours  
+1.AfterHours&&My Dear Melancholy,   
 2.Eden*    
 3.Velocity:Design:Comfort.  
 4.冀西南林路行  
@@ -70,12 +70,12 @@
 9.The Eminem show  
 10.Undertale  
 11.Prohibited Beats  
-12.My Dear Melancholy,  
-13.Blonde  
-14.Chinese Football  
-15.Kamikaze  
-16.?  
-17.24·时  
+12.Blonde  
+13.Chinese Football  
+14.Kamikaze  
+15.?  
+16.24·时  
+17.win&lose  
 18.The Distance Between Zero And One  
 19.杭州的现场  
 20.Starboy  
