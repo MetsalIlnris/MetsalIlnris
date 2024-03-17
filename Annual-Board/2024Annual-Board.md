@@ -10,16 +10,17 @@
 7.Age of Empires  
 8.Undertale  
 9.XL City  
-10.Far:long sail  
-11.Plant vs Zombie  
-12.OMORI  
-13.纪念碑谷  
-14.Ballance  
-15.宅男的人间冒险  
-16.原神  
-17.Inside  
-18.火山的女儿  
-19.明日方舟  
+10.告别星球  
+11.Far:long sail  
+12.Plant vs Zombie  
+13.OMORI  
+14.纪念碑谷  
+15.Ballance  
+16.宅男的人间冒险  
+17.原神  
+18.Inside  
+19.火山的女儿  
+20.明日方舟  
 
 ## Books
 1.小王子  
